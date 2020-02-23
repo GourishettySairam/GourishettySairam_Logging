@@ -1,0 +1,26 @@
+2020-02-23 20:24::33 INFO  Interest:13 - choose one option
+2020-02-23 20:24::33 INFO  Interest:14 - 1.Simple Interest
+2020-02-23 20:24::33 INFO  Interest:15 - 2.Compound Interest
+2020-02-23 20:24::33 INFO  Interest:16 - choose ur option
+2020-02-23 20:25::15 INFO  Interest:20 - Enter principal amount
+2020-02-23 20:25::24 INFO  Interest:22 - Enter rate of interest
+2020-02-23 20:25::28 INFO  Interest:24 - Enter time 
+2020-02-23 20:25::30 INFO  Interest:27 - simple interest is 53.0
+2020-02-23 20:29::19 INFO  MyHouseConstruction:13 - Enter area of house
+2020-02-23 20:29::32 INFO  MyHouseConstruction:16 - do you want a fully automated home(yes/no)
+2020-02-23 20:29::54 INFO  MyHouseConstruction:26 - Enter material standard
+2020-02-23 20:30::17 INFO  MyHouseConstruction:30 - cost is 2500000.0
+2020-02-23 20:44::14 INFO  MyHouseConstruction:13 - Enter area of house
+2020-02-23 20:45::17 INFO  MyHouseConstruction:13 - Enter area of house
+2020-02-23 20:45::23 INFO  MyHouseConstruction:13 - Enter area of house
+2020-02-23 20:45::28 INFO  MyHouseConstruction:16 - do you want a fully automated home(yes/no)
+2020-02-23 20:45::31 INFO  MyHouseConstruction:26 - Enter material standard
+2020-02-23 20:45::39 INFO  MyHouseConstruction:30 - cost is 1200000.0
+2020-02-23 20:52::22 INFO  Interest:13 - choose one option
+2020-02-23 20:52::22 DEBUG Interest:14 - 1.Simple Interest
+2020-02-23 20:52::22 INFO  Interest:15 - 2.Compound Interest
+2020-02-23 20:52::22 DEBUG Interest:16 - choose ur option
+2020-02-23 20:52::29 INFO  Interest:20 - Enter principal amount
+2020-02-23 20:52::31 INFO  Interest:22 - Enter rate of interest
+2020-02-23 20:52::37 DEBUG Interest:24 - Enter time 
+2020-02-23 20:52::39 INFO  Interest:27 - simple interest is 20.0
